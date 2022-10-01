@@ -1,0 +1,253 @@
+body {
+  overflow: 0;
+  margin: 0;
+  ] font-family: 'Rubik', sans-serif;
+}
+
+.capital {
+  text-transform: capitalize;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.nav-menu {
+  list-style: none;
+  display: inline-flex;
+  position: relative;
+  float: right;
+}
+
+.menu-items {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.menu-links {
+  color: #444;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.menu-links:hover {
+  color: #444;
+}
+
+.nav-logo {
+  width: 40px;
+  margin: 0;
+  padding: 0;
+}
+
+.greeting {
+  font-size: 70px;
+}
+
+.header-article {
+  font-size: 30px;
+}
+
+.header-myImg {
+  width: 50%;
+  position: relative;
+  float: right;
+}
+
+.header-greeting-container {
+  padding-top: 100px;
+}
+
+.header-main {
+  padding-top: 100px;
+}
+
+.header-icons {
+  list-style: none;
+  display: inline-flex;
+  margin: 0;
+  padding: 0;
+}
+
+.icon {
+  width: 20px;
+}
+
+.icon-container {
+  margin-top: 150px;
+}
+
+.icon-list {
+  margin-right: 30px;
+}
+
+.header-mail {
+  position: relative;
+  float: right;
+  color: #444;
+}
+
+.header-mail:hover {
+  color: #444;
+}
+
+/* SECOND BLOCK */
+.second-cont {
+  padding-top: 100px;
+}
+
+.what {
+  padding-bottom: 30px;
+}
+
+.second-img {
+  width: 10%;
+}
+
+.second-icon {
+  padding: 0;
+  margin: 0;
+}
+
+.second-headline {
+  margin-top: 20px;
+}
+
+.second-phagr {
+  color: #444;
+  font-size: 13px;
+  width: 80%;
+  line-height: 1.3;
+}
+
+/* SKILLS SECTION */
+.skills-container {
+  padding-top: 100px;
+}
+
+.skills-healine {
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+.skills-bottom-line {
+  padding: 1px;
+  background-color: #777;
+  margin: 30px 0;
+}
+
+.skills-img {
+  width: 20%;
+  padding-right: 10px;
+}
+
+.skills {
+  padding-top: 20px;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.skills-name {
+  font-size: 18px;
+}
+
+/* EXPERIENCE SECTION */
+.experience-cont {
+  padding-top: 100px;
+}
+
+.bold-ones {
+  font-weight: bold;
+}
+
+.experience-cont h2 {
+  padding-bottom: 30px;
+}
+
+.exp-phagr {
+  color: #444;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+/* WRAPPER */
+.wrapper {
+  padding: 100px 0;
+}
+
+.wrapper-phagr {
+  padding: 40px 0;
+}
+
+.talk-me {
+  color: #555;
+  font-size: 12px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.wrapper-mail {
+  color: #444;
+}
+
+.wrapper-mail:hover {
+  color: #444;
+}
+
+.w-icon-list {
+  margin-right: 15px;
+}
+
+.wrapper-form {
+  background-color: #333;
+  padding: 50px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+
+input:focus::placeholder {
+  color: transparent;
+}
+
+.input-info {
+  background: transparent;
+  width: 100%;
+  color: #A9A9A9;
+  font-size: 10px;
+  border: none;
+  border-bottom: 1px solid #A9A9A9;
+}
+
+.submit-btn {
+  position: relative;
+  float: right;
+  height: 30px;
+  padding: 0 12px;
+  font-size: 12px;
+  color: #444;
+  border: none;
+  background-color: #fff;
+  text-transform: uppercase;
+}
+
+.copyright {
+  color: #444;
+  padding-bottom: 100px;
+}
+
+.copyright-container {
+  text-align: center;
+}
